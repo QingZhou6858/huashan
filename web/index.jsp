@@ -16,6 +16,7 @@
           $("#h1").innerText = "Hello js!";
         }
       }
+
     </script>
   </head>
   <body>
